@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    :"یاسمن "
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "yasamanhaji" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Toorrang Atashi"
+  name             : "yasamanhaji"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
+  bio              : I'm a student.I'm currently learning computer science.
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : yasimahaji@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
@@ -120,22 +120,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:yasimahaji@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "yasamanhaji.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/pourrang_atashi"
