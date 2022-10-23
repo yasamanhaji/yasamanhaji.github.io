@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "yasamanhaji"
   avatar           : "/assets/images/IMG_20220312_193420_717.jpg"
-  bio              : I'm a student.I'm currently learning computer science.
+  bio              : just another version of me that does not exist
   location         : "تهران"
   email            : yasimahaji@gmail.com
   twitter: sauleh_e
