@@ -25,7 +25,7 @@ Wrap up warm and get ready for some Christmassy cheer, wizarding world-style. Wa
 Wrap up warm and get ready for some Christmassy cheer, wizarding world-style. Warner Bros. Studio Tour London - The Making of Harry Potter is back with its festive offerings, transforming the sets with a very merry makeover and once again inviting fans to dinner in the Great Hall.
 
 As is tradition, the Great Hall set will soon be transformed into a winter wonderland, complete with shimmering silver, dripping icicles and sparkling snow. Look around and you’ll see specially decorated Christmas trees and an orchestra of magical instruments (painted by the Prop-Making department) will also be on display, to give the impression you are visiting Hogwarts in the time of the Triwizard Tournament.
-![alt text](../assets/images/IMG_9253-2.jpg.jpg "Picture")
+![alt text](../assets/images/IMG_9253-2.jpg. "Picture")
 The Studio Tour is also set to put on some lavish special events in the Great Hall from 13th December – 15th December, inviting guests to enjoy a delicious Christmas feast. Fans can look out for tickets for Dinner in the Great Hall from 10am BST on Thursday 29th September. And if you’re signed up with us, you even get a 24 hour window to snap up a limited number of tickets before general sale! Harry Potter Fan Club Members can keep an eye out tomorrow (Wednesday 28th September) at 10am BST.
 
 Beyond the Great Hall, the glamorous costumes of the Yule Ball scene from Harry Potter and the Goblet of Fire will be on display, inviting fans to see the works of Costume Designer Jany Temime. Learn about how some of the outfits were created too, such as Hermione’s iconic pink dress, which featured twelve metres of delicate Chiffon to create such a stunning effect.
