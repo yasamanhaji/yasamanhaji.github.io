@@ -11,4 +11,5 @@ comments: true
 1.نصب گیت
 2.فورک
 3.کلون:)))
+<td><a href="http://www.randomhousebooks.com/new-releases//">learnmore</a></td>
 4.استفاده از وی اس کود برای ویرایش
